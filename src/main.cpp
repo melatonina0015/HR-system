@@ -114,28 +114,6 @@ int main()
             }
         }
     }
-    /*hr.print_all();
-    cout << hr.hr[2].department << endl;
-    hr.print_department("Marketing");
-    hr.print_salaries();
-    hr.print_salaries_sorted();
-    //cout << doc.GetCell<int>("id",0) << endl;
-    //doc.SetCell<int>(0,0, 100);
-    //cout << doc.GetCell<int>("id",0) << endl;
-    //doc.Save("wow.csv");
-    hr.change_salary(10,1000,doc);
-    hr.hr[9].print();
-    cout << gen_ID(hr) << endl;
-    //Employee New(gen_ID(hr),"a", "b","c","d",10);
-    //hr.add(New, doc);
-    cout << doc.GetRowCount() << endl;*/
-    //vector<Employee> col = doc.GetRow<Employee>("10");
-    //cout << col << endl;
-
-    //cout << doc.GetRowCount() << endl;
-    //hr.hr[0].print();
-    //Employee New(gen_ID(hr),"a", "a", "a", "a", 10);
-    //hr.add(New,doc);
 
     system("pause");
     return 0;
