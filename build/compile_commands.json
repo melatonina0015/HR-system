@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/Amelia/Studia/Semestr III/JiPP/JiPP_lab6/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/binary.dir/includes_CXX.rsp -g -o CMakeFiles\\binary.dir\\src\\main.cpp.obj -c \"D:\\Amelia\\Studia\\Semestr III\\JiPP\\JiPP_lab6\\src\\main.cpp\"",
+  "file": "D:/Amelia/Studia/Semestr III/JiPP/JiPP_lab6/src/main.cpp"
+},
+{
+  "directory": "D:/Amelia/Studia/Semestr III/JiPP/JiPP_lab6/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/binary.dir/includes_CXX.rsp -g -o CMakeFiles\\binary.dir\\src\\employeeClass.cpp.obj -c \"D:\\Amelia\\Studia\\Semestr III\\JiPP\\JiPP_lab6\\src\\employeeClass.cpp\"",
+  "file": "D:/Amelia/Studia/Semestr III/JiPP/JiPP_lab6/src/employeeClass.cpp"
+},
+{
+  "directory": "D:/Amelia/Studia/Semestr III/JiPP/JiPP_lab6/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/binary.dir/includes_CXX.rsp -g -o CMakeFiles\\binary.dir\\src\\HRMS.cpp.obj -c \"D:\\Amelia\\Studia\\Semestr III\\JiPP\\JiPP_lab6\\src\\HRMS.cpp\"",
+  "file": "D:/Amelia/Studia/Semestr III/JiPP/JiPP_lab6/src/HRMS.cpp"
+}
+]
