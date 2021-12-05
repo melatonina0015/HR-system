@@ -56,29 +56,23 @@ vector
 BaseTsd.h
 -
 
-D:/Amelia/Studia/Semestr III/JiPP/JiPP_lab6/src/main.cpp
+D:/Amelia/Studia/Semestr III/JiPP/JiPP_lab6/src/HRMS.cpp
 iostream
--
-cstdlib
--
-windows.h
--
-string.h
--
-string
--
-employeeClass.hpp
 -
 HRMS.hpp
 -
-typeinfo
--
-rapidcsv.h
+employeeClass.hpp
 -
 vector
 -
-map
+rapidcsv.h
+-
+algorithm
 -
 set
+-
+string
+-
+string.h
 -
 

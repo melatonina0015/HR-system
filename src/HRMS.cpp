@@ -102,7 +102,7 @@ void HRMS::change_salary(int id, double salary, Document &DOC)
     for(int i = 0; i < hr.size(); i++){
         if(DOC.GetCell<int>(0,i) == id){
             DOC.SetCell(5,i,salary);
-            DOC.Save("test.csv");
+            DOC.Save("../hr.csv");
             hr[i].salary = salary;
             cout << "Salary changed; New data:\n"
                  << "ID = " << hr[i].id << "\n"
@@ -119,5 +119,5 @@ void HRMS::add(Employee &emp, Document &DOC)
     hr.push_back(emp);
     int d = hr.size() - 1;
     DOC.SetRow<string>(DOC.GetRowCount(),vector<string>({to_string(hr[d].id), hr[d].name, hr[d].surname, hr[d].department, hr[d].position, to_string(hr[d].salary)}));
-    DOC.Save("test.csv");
+    DOC.Save("../hr.csv");
 }

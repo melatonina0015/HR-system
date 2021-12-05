@@ -1,6 +1,6 @@
 id,name,surname,department,positon,salary
 1,Trix,Georgius,"Human Resources",Analyst,9250
-2,Garret,Episcopio,Legal,Consultant,5000
+2,Garret,Episcopio,Legal,Consultant,11662
 3,Raynard,Hammatt,Marketing,"Project Manager",12082
 4,Fredric,Acock,Marketing,Developer,13531
 5,Brigham,Girling,Legal,Analyst,9963
@@ -28,7 +28,7 @@ id,name,surname,department,positon,salary
 27,Lusa,Ariss,Training,Analyst,13436
 28,Sibeal,Boeter,Legal,"Project Manager",10547
 29,Peta,Doerrling,"Product Management",Analyst,10465
-30,Flori,Kern,"Human Resources",Consultant,10000
+30,Flori,Kern,"Human Resources",Consultant,12000
 31,Ferdie,Ocheltree,Training,Developer,6741
 32,Hilary,Kilpatrick,Marketing,"Project Manager",13169
 33,Gerome,Huton,Legal,Consultant,7941
@@ -49,3 +49,4 @@ id,name,surname,department,positon,salary
 48,Delora,Feakins,"Business Development",Analyst,7973
 49,Dwayne,Dunton,"Human Resources","Project Manager",6208
 50,Zane,Boggs,Accounting,Consultant,11637
+51,sdfsdf,dfgfdg,fdgdf,dfgd,10000.000000
